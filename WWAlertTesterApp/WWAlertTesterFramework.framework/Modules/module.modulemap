@@ -1,0 +1,11 @@
+framework module WWAlertTesterFramework {
+  umbrella header "WWAlertTesterFramework.h"
+  export *
+
+  module * { export * }
+}
+
+module WWAlertTesterFramework.Swift {
+  header "WWAlertTesterFramework-Swift.h"
+  requires objc
+}

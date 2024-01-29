@@ -1,0 +1,3 @@
+target 'WWAlertTesterFramework' do
+  pod 'AlertController', :git => 'https://github.com/mezhevikin/AlertController.git'
+end

@@ -1,0 +1,6 @@
+module AlertController {
+  umbrella header "AlertController-umbrella.h"
+
+  export *
+  module * { export * }
+}

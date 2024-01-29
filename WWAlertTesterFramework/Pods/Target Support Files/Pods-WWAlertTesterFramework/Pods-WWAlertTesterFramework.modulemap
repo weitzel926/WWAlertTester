@@ -1,0 +1,6 @@
+module Pods_WWAlertTesterFramework {
+  umbrella header "Pods-WWAlertTesterFramework-umbrella.h"
+
+  export *
+  module * { export * }
+}
